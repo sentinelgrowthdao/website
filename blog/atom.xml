@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sentinelgrowthdao.com/blog"/>
     <subtitle>Sentinel Growth DAO Blog</subtitle>
-    <icon>https://sentinelgrowthdao.com/img/logo.svg</icon>
+    <icon>https://sentinelgrowthdao.com/img/sentinel.svg</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://sentinelgrowthdao.com/blog/welcome</id>
