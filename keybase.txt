@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/sentinelgrowth
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sentinelgrowthdao.com
+  * I am sentinelgrowth (https://keybase.io/sentinelgrowth) on keybase.
+  * I have a public key with fingerprint 094D 1196 6971 2ED4 CF0E  619F 2269 75FC 2C2B A4FA
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012060d026315adb311fb582ac8e0ed45344cf9eb40185e09d6c4b03d8d8c84dd8340a",
+      "fingerprint": "094d119669712ed4cf0e619f226975fc2c2ba4fa",
+      "host": "keybase.io",
+      "key_id": "226975fc2c2ba4fa",
+      "kid": "010145d1c9054484b449dba9dc6b930b37de709fa3b32462c1314c25467e7f8014370a",
+      "uid": "ec2273b37d241e95a7f84e308f2e3e19",
+      "username": "sentinelgrowth"
+    },
+    "service": {
+      "hostname": "sentinelgrowthdao.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1709790794,
+  "expire_in": 157680000,
+  "prev": "31b5f88483664344b7626974e1b80a49a57f7bb590c792632764de468afbce65",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNvAnicbZJ7TFZlHMdfEAhYJjW5KBvDg1Tw8sK5POfGCHQwdLi8IkRZb+fyHDgD
+3oPnPSCXcCTm7H11JApKyIi4jTTBmo1SuZXj1lBgSLi2kFEChtTKDETpHJb/ef55
+dn77fj/P9/d7fj+sXWPydkHk3OUIc8OSy2B3c64JzqYkFSG8IhYg0UVIJlw9YJYI
+7Zo1UxaRaATFcJRCRRSnCIzkRJ7AMIknGZwTGIhCEZAEAILEQh6gGENClBUpAfAo
+ITIiIzBAFBkCoBwSgUiyLR2qOaps0wwsC0QMYymKpTFcxwgSCimMlXBcr5CSgAs4
+zwHJMGYodsOhh+M5O4yUFb2m/1hX4z1H/yw3igFSxAQWJQFgAA8AK/IcKwoUzxIo
+T9AipFFW4giewAGFCxiBAQEnAUVDWmJ0M0Gv5s5dxUEBx2nCcOEAgyzJ6RoACZSR
+cEhAjDWEdqjauGyoq+3Qpsk2mJWuKoe0DKQ4Qq+oebIAjfEa/TxXJ3JKpKBk66gc
+VdEUQcnSJRmalmOPNhBaQY7hOQR56/80Ky/bRH2suiMPqnZZsSHRmK4UNNnAY3p/
+NIvSLIhAYH6OrEKrbChImmJQ/TPugXk6ksB4UmIYwBAUBfT35GnKGCuAGM+gHGA5
+kpZonidZVKBZfRFwmgIiBBTDSbwAKRIx+jtoU3Q2pefk0o3W5HQbp+WqECnu6T7g
+ZnLxNnm4uxr7ZvL28nm2hZ+nrlvRhLvJWDa1GBS8KyZw+J/hBzMJHw0OFfbfmiwv
+bdzv9duB/tAvlvo6PJPTDm66OUA5V4TvD/vF10y1Ff/awidcrr6Y9ebOsIwGMdL/
+YWnSVIP1aUhzQg376PiJ+baZrraziY+cK1upXnX2rQCTW5x0bMdPbBBWdYbZtv/0
+x8Gty5130XcWtkrjwUcrzOiYebMfcjps7Fz4w2Ki1B57fc7TVPbahVPxzujfpW9e
+VidHQmPOjd+cWhqNelw/Gjc93WHZ7GW/Olslb/BzPZZayY5P170xNLRSm9/V2Be+
+eG2w+k/f8KDdpWnFr352p6ID61bdr3sm/nir8BcqKS50T3+hR+tLLYv1T3sDwhrN
+vTXlKeHcJx4DT9LnmnZdK9Q6Z+S59dudF/8d9k2ZX+MV2HflfNH2JDY/sfZ857qF
+ivByS+zOtXTXt6+Yb9x7Unam7oNR/xHsq9R3Q1LaR2Z6Pi2ofrwHdkRt+Uspcbo6
+yKr6vJNpjsXIuD82Jrecurqvadn0ZSkJ3mtGUsj5Szf88uKbHoS9OOF4ezJ+brc0
+YdkXeLj70jbPrNYt7m17398QXO3YtPGIOn6yxpnUE2O51+xveaF3eL1bif/PPn+b
+Hbe/871vJ9sC+ttfnziyo8FnJjYq87KH//ETV9RUx+36OyVfh1R+2LpXBfXgaGXd
+/bKxAd/2WvGCZUE6+x/sDsY6
+=B9Ab
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sentinelgrowth
+
+==================================================================
