@@ -22,3 +22,4 @@ The DAO expenses related to travel and meetings
 | 01/06/2024 | osmo1nufr9p7gan7870pywannlyvzn6vf28m785k28a | 9,530 OSMO | PR & Events | [🔎](https://www.mintscan.io/osmosis/tx/82726A8C0DE3A909D37CFBBF74979225F05FC83E025B1851BB487C4A190FE3B2?height=16301141)
 | 05/06/2024 | osmo1nufr9p7gan7870pywannlyvzn6vf28m785k28a | 11,330 OSMO | Contributors, mods, PR, Events. Travel | [🔎](https://www.mintscan.io/osmosis/tx/3E6173AABD015D92314E4D4FF7C09D2BA19FFC7C691FEE164CDC8D74E8199428?height=16425426)
 | 11/06/2024 | osmo1nufr9p7gan7870pywannlyvzn6vf28m785k28a | 7,699 OSMO | Legal fees, VPN Grants, and PR | [🔎](https://www.mintscan.io/osmosis/tx/3C5CBC85C270EE53884918D69AAA1B2F54BCC26FEDAA47D4211E57397CADBBE7?height=16636878)
+| 09/07/2024 | osmo15t7xspxr2hray092j027lsxmyj5f43qky3e2tp | 8,800 OSMO | Casanode, Contributors, Mods & PR | [🔎](https://www.mintscan.io/osmosis/tx/5DE2A53C61206276DBB156525C2D4E2642FB7EA8156A1ECC21B9C67B6D1F1819?height=17722308)
