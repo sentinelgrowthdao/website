@@ -41,3 +41,4 @@ The monthly salaries distributed to DAO members
 | 01/07/2024 | sent1jlrnh8nysf7fjpx4f9qk65vzvmg8tdr4gya3hj | 2,000,000 DVPN | May/June/July DAO Member Pay | [🔎](https://www.mintscan.io/sentinel/tx/A3E1C05F2771FFAF8905AB98FF4B01A481BD1FBDB2FAB66C0BBF3FAAE6FDBA66?height=16902274)
 | 01/07/2024 | sent1ga50zexwcsnr5t33nmfmunzv80rmnnyt3s3t4z | 2,000,000 DVPN | May/June/July DAO Member Pay | [🔎](https://www.mintscan.io/sentinel/tx/4A34BECF7109EC3C9C63259A70B1BC49E5C455823EF0463526D8259DA3267FC8?height=16902302)
 | 01/07/2024 | sent17kcwd875e37523khlux2x5eqtl2sg8reyqqrqk | 2,000,000 DVPN | May/June/July DAO Member Pay | [🔎](https://www.mintscan.io/sentinel/tx/BFC79ECCE373A0458378462FA17EDB3A7A589AE4C07DF043955DFF8E5E398297?height=16906239)
+| 10/07/2024 | sent16zq5y8m9hgvl2uylwvz702m0ppeznve37x9fmh | 1,000,000 DVPN | Member Salary July | [🔎](https://www.mintscan.io/sentinel/tx/3E6086889E5F58A2133273F873E5FDACC3C86AD05F42DE81B300C94754BE9628?height=17027601)

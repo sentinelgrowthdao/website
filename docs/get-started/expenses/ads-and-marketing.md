@@ -78,3 +78,4 @@ The DAO expenses for advertisement & Marketing
 | 05/07/2024 | sent1aqzdyf7c8vcy7826yw6zsy4y0gcvpf4sczhp44 | 250,000 DVPN | Mods | [🔎](https://www.mintscan.io/sentinel/tx/B4933FE77BEC3D335BCF02A9B8B1AA366F30EA1E06CE36A5C4DF4B8C91C0F5DC?height=16962040)
 | 08/07/2024 | sent1aqzdyf7c8vcy7826yw6zsy4y0gcvpf4sczhp44 | 135,000 DVPN | Mods | [🔎](https://www.mintscan.io/sentinel/tx/BDCB1A2604B044CC53F420F9B46ED936FF8AEB3EE90279F7432E67F5F4C05131?height=17009984)
 | 08/07/2024 | sent1qhxm8ugyctnmj37kj0pqcgkvezdv2r5hyx3www | 120,000 DVPN | Mods | [🔎](https://www.mintscan.io/sentinel/tx/064235C88A0D85E611DC746FC7FBF3AD9EE09AC26D5075D559B5EF1562BA9AFA?height=17010311)
+| 09/07/2024 | sent1wgkqudvx38snt8fgqgvsf84amkver2df2rhv94 | 120,000 DVPN | DVPN Merch | [🔎](https://www.mintscan.io/sentinel/tx/49D0B2087564FC76DC06D9FD28562668C912BAA8B0283AF3862791CC363BDE93?height=17020328)
