@@ -12,4 +12,4 @@ DAO is managed by 6 active Sentinel core community contributors:
 - Joey | BadgerBite - [https://t.me/joey19944](https://t.me/joey19944)
 - Sergey | Quokka Stake - [https://t.me/freak12techno](https://t.me/freak12techno)
 - Seventh - [https://t.me/xSeventhx](https://t.me/xSeventhx)
-- Trinity Validator - [https://t.me/trinityvalidator](https://t.me/trinityvalidator)
+- Trinity Stake - [https://t.me/trinitystake](https://t.me/trinitystake)

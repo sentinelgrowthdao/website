@@ -27,7 +27,7 @@ The multisig wallet is managed by 5 DAO Members which are also active Sentinel c
 - Joey | BadgerBite - [https://t.me/joey19944](https://t.me/joey19944)
 - Sergey | Quokka Stake - [https://t.me/freak12techno](https://t.me/freak12techno)
 - Seventh - [https://t.me/xSeventhx](https://t.me/xSeventhx)
-- Trinity Validator - [https://t.me/trinityvalidator](https://t.me/trinityvalidator)
+- Trinity Stake - [https://t.me/trinitystake](https://t.me/trinitystake)
 
 :::info Address
 [sent1ug9ene2fkw749nutuzd858r6sqeljt6f6vya33](https://www.mintscan.io/sentinel/address/sent1ug9ene2fkw749nutuzd858r6sqeljt6f6vya33)
