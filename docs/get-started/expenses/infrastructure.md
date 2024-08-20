@@ -33,3 +33,6 @@ The DAO expenses for infrastructure
 | 08/06/2024 | cosmos12x9t3zpaveh5nmkvrsznxkj2vu3zaee4732kcg | 251.634240 ATOM | Legal Costings | [🔎](https://www.mintscan.io/cosmos/tx/06D449054E8D673C1F02D570A80FD32A35CEB442B4793CF92C920C9C421F5641?height=20774359)
 | 29/06/2024 | sent1znpyggqftz5hnqu4dqttp9ce3q4xhc5xlzfvtv | 450,000 DVPN | Payment Busurnode | [🔎](https://www.mintscan.io/sentinel/tx/7E871E6DA936C88DFBE6EDBEAAA3B35DE5800AC37A9CE4D78344CD58B659BED5?height=16874365)
 | 01/07/2024 | sent1mznh60smsw6xsqlrd6jdx95mwvyzg2j3njdutw | 104,000 DVPN | Payment Chinese RPC | [🔎](https://www.mintscan.io/sentinel/tx/8D6897F2D173C1300CDC577E6000BFADE0983F801BFEB65178F0B085C2215DE1?height=16899479)
+| 25/07/2024 | sent1jm0flflcsg6lqt7rmuyjkl7fktlhgkf246cz9z | 2,000 DVPN | Jay - Sentinel Sub | [🔎](https://www.mintscan.io/sentinel/tx/E22BB5D41EFA0A3C174020C5CEC5C075B7DEA48ACB9E909249E8416C15536044?height=17251633)
+| 30/07/2024 | sent1znpyggqftz5hnqu4dqttp9ce3q4xhc5xlzfvtv | 240,000 DVPN | Busurnode IPv6 Nodes | [🔎](https://www.mintscan.io/sentinel/tx/180466D1BC4D9D5B31F98B20344E223AE151A51C1C542A1AF5C260E5A9587D5E?height=17329040)
+| 06/08/2024 | sent1n32fp8kshh45rsry48f7q24sr7g326kq6exfgr | 1,500,000 DVPN | RPC Infrastructure & Development | [🔎](https://www.mintscan.io/sentinel/tx/7DBF912BF5AAF81B8D8A821C99719BD8702269DFF2B550D62FA20A94B5D96E8C?height=17427901)
