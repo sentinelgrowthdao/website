@@ -28,3 +28,4 @@ The DAO expenses for infrastructure
 | 06/05/2024 | sent1zr6hglr56dtsyrx0guppcas7huwggfu9z6tr6k | 155,000 DVPN | Bounty Video | [🔎](https://www.mintscan.io/osmosis/tx/F6B2A92E4B55F6F5356953B9A2BE4E03CB7B6572D8106F4A4E9FD2D43F5D19D3?height=15504123)
 | 21/05/2024 | sent1zr6hglr56dtsyrx0guppcas7huwggfu9z6tr6k | 100,000 DVPN | Sentinel Shield App Video | [🔎](https://www.mintscan.io/sentinel/tx/84F3DE47224E0BB6748B67EFBDF71A5EA462CF171354E9541245BA96B5520A26?height=16306184)
 | 20/08/2024 | sent1zr6hglr56dtsyrx0guppcas7huwggfu9z6tr6k | 100,000 DVPN | Youtube Node Video | [🔎](https://www.mintscan.io/sentinel/tx/4B8DAB62798A26699F9B44C7B4E2844C04DE25C8A11D436FBA0B55BEAC60F7F2?height=17632411)
+| 02/09/2024 | sent1zr6hglr56dtsyrx0guppcas7huwggfu9z6tr6k | 100,000 DVPN | DVPN Youtube Video | [🔎](https://www.mintscan.io/sentinel/tx/D954D60242CA270F1AB1248809AE68B0A339272D3635C646C3ED25569553047B?height=17822000)

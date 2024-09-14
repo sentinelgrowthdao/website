@@ -50,3 +50,4 @@ The DAO expenses related to development
 | 29/07/2024 | sent1mw4m36qmhdcvsj9qn2qnefajcq404e56a9jlp9 | 492,795 DVPN | Laptop for Casanode Testing | [🔎](https://www.mintscan.io/sentinel/tx/78947F729C4759DB3CBDAE20014D6B0F759F9B40F5C2535992E6DB436B61AA90?height=17310940)
 | 06/08/2024 | sent1ewmujlakdstee65lp6p30g0n6ul62auxpc6yew | 1,444,000 DVPN | Casanode Development | [🔎](https://www.mintscan.io/sentinel/tx/3A698CB162F17C1FDAF094ED07035A280D0765FD7B2A13E3CCC75BECA71FE6EE?height=17427945)
 | 07/08/2024 | cosmos1vtakcr67ejvknr00vmq8vh6dm9mn5hr6ne2n65 | 10.5 ATOM | ATOM dVPN Onramp Testing | [🔎](https://www.mintscan.io/cosmos/tx/B0C5CD0751F1E607C69974E577D6EE2345655B77D6ADBC1584137CF1612FA445?height=21618199)
+| 23/08/2024 | sent1v7p2z0q2z3scvj26sycrcanakrd6hftfx9tqj7 | 400,000 DVPN | Raspberries Testing HWs | [🔎](https://www.mintscan.io/sentinel/tx/10CCD7A5CC3E63B2DAB0019B25B6C1ACC4B8924B35FB070C22FEC33F72E4B629?height=17670339)
