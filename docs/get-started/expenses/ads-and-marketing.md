@@ -93,7 +93,6 @@ The DAO expenses for advertisement & Marketing
 | 14/08/2024 | sent1twc9t2pyesrvzds7lxc65dlvqh6mrt4cths806 | 500,000 DVPN | Contributor | [🔎](https://www.mintscan.io/osmosis/tx/12D43A4E0BB2614634D15670D46FB49D289C75C1FB78032EE0B57B83CB803BE9?height=19330423)
 | 18/08/2024 | sent1wgkqudvx38snt8fgqgvsf84amkver2df2rhv94 | 520,000 DVPN | Contributors | [🔎](https://www.mintscan.io/sentinel/tx/A119D94BDD1AC3E8DC88706DDFA8FF9530E5D8CDCF88A09BEE61291D7BE9AB86?height=17601168)
 | 20/08/2024 | osmo1fmv3q83vz3aw7u964h7z2zdpxhtd7dly84m9mw | 90,000 DVPN | Admin | [🔎](https://www.mintscan.io/osmosis/tx/38494F9A35B38BCF5E99BC19F458E7BE7BC794AC6A33C871D02A136A06B76BC4?height=19603861)
-| 31/08/2024 | sent1g2uzx4grnj347lsnfjqsv70xx2hm6lmg8w7yh5 | 80,000 DVPN | PR & Marketing | [🔎](https://www.mintscan.io/sentinel/tx/16013E813A02F0E522A608FC194AA079DD85FD648A0CD3FBF43861424BB85442?height=17799264)
 | 31/08/2024 | osmo1nufr9p7gan7870pywannlyvzn6vf28m785k28a | 14,650 OSMO | Events & Creative Video/Design | [🔎](https://www.mintscan.io/osmosis/tx/E7AB3AE28CAF0861DB607A5860250071DFFD5CC35D066E64C69E824F5D0E79E8?height=20162796)
 | 11/09/2024 | osmo1nufr9p7gan7870pywannlyvzn6vf28m785k28a | 6,500 OSMO | Cosmoverse Inclusive Costings | [🔎](https://www.mintscan.io/osmosis/tx/4284DBE28E4CBB0F04309E35AE2085CA751D32D759CB82C234D4A05601FB5168?height=20686424)
 | 12/09/2024 | osmo1nufr9p7gan7870pywannlyvzn6vf28m785k28a | 3,450 OSMO | Cosmoverse Full Send | [🔎](https://www.mintscan.io/osmosis/tx/FAEFC8632D0E24480CA1013ECDFA8DF71890D8A9A3241C9705B09CAB582C506C?height=20733544)
