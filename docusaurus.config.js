@@ -117,6 +117,11 @@ const config = {
             label: 'Sentinel',
             position: 'right',
           },
+          {
+            href: 'https://github.com/sentinelgrowthdao',
+            className: 'pseudo-icon github-icon',
+            position: 'right',
+          },
         ],
       },
       // this block enables dark mode only
