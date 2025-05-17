@@ -90,7 +90,7 @@ const config = {
             position: 'right',
             items: [
               {
-                href: 'https://x.com/dVPNDAO',
+                href: 'https://x.com/TheP2PDAO',
                 label: 'X',
               },
               {
@@ -145,7 +145,7 @@ const config = {
             title: 'Community',
             items: [
               {
-                href: 'https://x.com/dVPNDAO',
+                href: 'https://x.com/TheP2PDAO',
                 label: 'X',
               },
               {
