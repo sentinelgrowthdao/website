@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Sentinel Growth DAO',
-  tagline: 'Your Gateway to Maximum Privacy and Growth within Sentinel dVPN Ecosystem',
+  tagline: 'Your Gateway to Maximum Privacy and Growth within Sentinel P2P Ecosystem',
   favicon: 'img/sentinel.svg',
 
   // Set the production url of your site here
@@ -82,7 +82,7 @@ const config = {
             position: 'left',
             label: 'Infrastructure',
           },
-          {to: 'https://dvpn.news', label: 'dVPN News', position: 'left'},
+          {to: 'https://www.p2p.news', label: 'P2P News', position: 'left'},
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
             label: 'Find us',
@@ -167,8 +167,8 @@ const config = {
             title: 'More',
             items: [
               {
-                href: 'https://dvpn.news',
-                label: 'DVPN News',
+                href: 'https://www.p2p.news',
+                label: 'P2P News',
               },
               {
                 href: 'https://github.com/sentinelgrowthdao',
