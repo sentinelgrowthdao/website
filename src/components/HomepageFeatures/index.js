@@ -22,11 +22,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'dVPN News',
+    title: 'P2P News',
     Svg: require('@site/static/img/news.svg').default,
     description: (
       <>
-        dvpn.news is a comprehensive platform committed to covering all aspects of DAO Operations, decentralized VPNs, Privacy, and Security.
+        p2p.news is a comprehensive platform committed to covering all aspects of DAO Operations, decentralized VPNs, Privacy, and Security.
       </>
     ),
   },
