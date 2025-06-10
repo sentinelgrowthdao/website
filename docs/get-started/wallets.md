@@ -21,23 +21,11 @@ The DAO validator is currently active with a 100% commission. The rewards will e
 
 ## Multisig Wallet
 
-The multisig wallet is managed by 5 DAO Members which are also active Sentinel come community contributors:
+The multisig wallet is managed by the two DAO Members:
 
-- Bart | Chainvibes - [https://t.me/Creamers](https://t.me/Creamers)
-- Joey | BadgerBite - [https://t.me/joey19944](https://t.me/joey19944)
-- Sergey | Quokka Stake - [https://t.me/freak12techno](https://t.me/freak12techno)
 - Seventh - [https://t.me/xSeventhx](https://t.me/xSeventhx)
 - Trinity Stake - [https://t.me/trinitystake](https://t.me/trinitystake)
 
 :::info Address
-[sent1ug9ene2fkw749nutuzd858r6sqeljt6f6vya33](https://www.mintscan.io/sentinel/address/sent1ug9ene2fkw749nutuzd858r6sqeljt6f6vya33)
+[sent1p3hta793yukw9p3hfwct0gdnzzf7vvvwwdys3z](https://www.mintscan.io/sentinel/address/sent1p3hta793yukw9p3hfwct0gdnzzf7vvvwwdys3z)
 :::
-
-
-## Other Wallets
-
-- Sentinel Kucoin: [sent1600vl2w6ewyu70um925lhcmeav757ml8umenqt](https://www.mintscan.io/sentinel/account/sent1600vl2w6ewyu70um925lhcmeav757ml8umenqt)
-- Cosmos: [cosmos1nygcr5p33plzq4akfxnl3nr7nf59gnshhsqm54](https://www.mintscan.io/cosmos/account/cosmos1nygcr5p33plzq4akfxnl3nr7nf59gnshhsqm54)
-- Osmo: [osmo1nygcr5p33plzq4akfxnl3nr7nf59gnshltntz8](https://www.mintscan.io/osmosis/account/osmo1nygcr5p33plzq4akfxnl3nr7nf59gnshltntz8)
-- Akash: [akash1nygcr5p33plzq4akfxnl3nr7nf59gnsh6tdud0](https://www.mintscan.io/akash/account/akash1nygcr5p33plzq4akfxnl3nr7nf59gnsh6tdud0)
-- Ethereum: [0x8Cc482eCa6EF398136a65574935480D84d4e2d75](https://etherscan.io/address/0x8Cc482eCa6EF398136a65574935480D84d4e2d75)
