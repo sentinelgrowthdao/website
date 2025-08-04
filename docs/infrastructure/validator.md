@@ -10,9 +10,9 @@ The DAO validator operates on a cluster with 3 active nodes and 3 signers. All c
 Yovan, representing Busurnode, will be responsible for overseeing its maintenance, ensuring the implementation of essential monitoring measures. The private key associated with the DAO Validator has been securely distributed among the DAO members.
 
 :::info Operator Address
-[sentvaloper1t7f57wx8lfm8y4eeq5vk2cf5cnsq5d729suayz](https://www.mintscan.io/sentinel/validators/sentvaloper1t7f57wx8lfm8y4eeq5vk2cf5cnsq5d729suayz)
+[sentvaloper1t7f57wx8lfm8y4eeq5vk2cf5cnsq5d729suayz](https://explorer.busurnode.com/sentinel/staking/sentvaloper1t7f57wx8lfm8y4eeq5vk2cf5cnsq5d729suayz)
 :::
 
 :::info Wallet Address
-[sent1t7f57wx8lfm8y4eeq5vk2cf5cnsq5d7264rstt](https://www.mintscan.io/sentinel/address/sent1t7f57wx8lfm8y4eeq5vk2cf5cnsq5d7264rstt)
+[sent1t7f57wx8lfm8y4eeq5vk2cf5cnsq5d7264rstt](https://explorer.busurnode.com/sentinel/account/sent1t7f57wx8lfm8y4eeq5vk2cf5cnsq5d7264rstt)
 :::
