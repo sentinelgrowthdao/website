@@ -114,7 +114,7 @@ export default function SpendingTable() {
                   const hash = data.hash;
                   const denom = data.denom.toUpperCase();
                   if (denom === 'P2P') {
-                    return `<a href="https://www.mintscan.io/sentinel/tx/${hash}" target="_blank" rel="noopener noreferrer">Explorer</a>`;
+                    return `<a href="https://p2pscan.com/transaction/${hash}" target="_blank" rel="noopener noreferrer">Explorer</a>`;
                   } else if (denom === 'OSMO') {
                     return `<a href="https://www.mintscan.io/osmosis/tx/${hash}" target="_blank" rel="noopener noreferrer">Explorer</a>`;
                   } else if (denom === 'ATOM') {

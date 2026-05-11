@@ -17,7 +17,7 @@ Sentinel Growth DAO relayer will manage the relaying of Sentinel, Atom, Axelar a
 # Addresses
 
 :::info Sentinel
-[sent175vdslyt4whfyeudm463m5trsjhwh3ydxu8spp](https://explorer.busurnode.com/sentinel/account/sent175vdslyt4whfyeudm463m5trsjhwh3ydxu8spp)
+[sent175vdslyt4whfyeudm463m5trsjhwh3ydxu8spp](https://p2pscan.com/address/sent175vdslyt4whfyeudm463m5trsjhwh3ydxu8spp)
 :::
 
 :::info Atom
