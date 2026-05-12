@@ -8,15 +8,17 @@ export default function FooterLayout({style, links, logo, copyright}) {
         'footer--dark': style === 'dark',
       })}>
       <div className="container container-fluid">
-        <p className="footer-tagline">
-          Growing the Sentinel P2P ecosystem, together.
-        </p>
-        {links}
-        {(logo || copyright) && (
-          <div className="footer__bottom text--center">
-            {logo && <div className="margin-bottom--sm">{logo}</div>}
-            {copyright}
+        <div className="footer__row">
+          <div className="footer__data">
+            {logo && <div className="footer__logo-wrap">{logo}</div>}
+            <p className="footer__tagline">
+              Your Gateway to Maximum Privacy and Growth within the Sentinel P2P Ecosystem
+            </p>
           </div>
+          <div className="links">{links}</div>
+        </div>
+        {copyright && (
+          <div className="footer__bottom text--center">{copyright}</div>
         )}
       </div>
     </footer>

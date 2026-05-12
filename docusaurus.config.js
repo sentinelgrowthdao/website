@@ -136,6 +136,11 @@ const config = {
       },
       footer: {
         style: 'dark',
+        logo: {
+          alt: 'Sentinel Growth DAO',
+          src: 'img/logo-dark.svg',
+          width: 220,
+        },
         links: [
           {
             title: 'Docs',
