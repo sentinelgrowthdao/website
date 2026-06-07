@@ -13,8 +13,8 @@ const config = {
   favicon: 'img/sentinel.svg',
 
   // Set the production url of your site here
-  url: 'https://sentinelgrowthdao.com',
-  //url: 'https://sentinelgrowthdao.github.io',
+  url: 'https://sentinelhdao.com',
+  //url: 'https://sentineldao.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   //baseUrl: '/sentinel-growth-dao-website/',
