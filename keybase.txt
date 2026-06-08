@@ -4,7 +4,7 @@ https://keybase.io/sentinelgrowth
 
 I hereby claim:
 
-  * I am an admin of https://sentinelgrowthdao.com
+  * I am an admin of https://sentineldao.com
   * I am sentinelgrowth (https://keybase.io/sentinelgrowth) on keybase.
   * I have a public key with fingerprint 094D 1196 6971 2ED4 CF0E  619F 2269 75FC 2C2B A4FA
 
@@ -21,50 +21,63 @@ To do so, I am signing this object:
       "uid": "ec2273b37d241e95a7f84e308f2e3e19",
       "username": "sentinelgrowth"
     },
+    "merkle_root": {
+      "ctime": 1780900019,
+      "hash_meta": "a84bb7341be976fffbe49a2ba0c9084a1b9a714c4057fdada111147fe5ecc8ad",
+      "seqno": 27620244
+    },
+    "revoke": {
+      "sig_ids": [
+        "78ddf72a9030a16758b850ee2f428fdcead49bc9f7e62f64f027ce4998bf39980f"
+      ]
+    },
     "service": {
-      "hostname": "sentinelgrowthdao.com",
+      "hostname": "sentineldao.com",
       "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1709790794,
+  "ctime": 1780900022,
   "expire_in": 157680000,
-  "prev": "31b5f88483664344b7626974e1b80a49a57f7bb590c792632764de468afbce65",
-  "seqno": 16,
+  "prev": "1f0acf670c0ae490ae7fec12671ea79e61c522029a1ed031f9cf8dd88b5ddf3a",
+  "seqno": 19,
   "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.1.13
+Version: Keybase OpenPGP v2.1.17
 Comment: https://keybase.io/crypto
 
-yMNvAnicbZJ7TFZlHMdfEAhYJjW5KBvDg1Tw8sK5POfGCHQwdLi8IkRZb+fyHDgD
-3oPnPSCXcCTm7H11JApKyIi4jTTBmo1SuZXj1lBgSLi2kFEChtTKDETpHJb/ef55
-dn77fj/P9/d7fj+sXWPydkHk3OUIc8OSy2B3c64JzqYkFSG8IhYg0UVIJlw9YJYI
-7Zo1UxaRaATFcJRCRRSnCIzkRJ7AMIknGZwTGIhCEZAEAILEQh6gGENClBUpAfAo
-ITIiIzBAFBkCoBwSgUiyLR2qOaps0wwsC0QMYymKpTFcxwgSCimMlXBcr5CSgAs4
-zwHJMGYodsOhh+M5O4yUFb2m/1hX4z1H/yw3igFSxAQWJQFgAA8AK/IcKwoUzxIo
-T9AipFFW4giewAGFCxiBAQEnAUVDWmJ0M0Gv5s5dxUEBx2nCcOEAgyzJ6RoACZSR
-cEhAjDWEdqjauGyoq+3Qpsk2mJWuKoe0DKQ4Qq+oebIAjfEa/TxXJ3JKpKBk66gc
-VdEUQcnSJRmalmOPNhBaQY7hOQR56/80Ky/bRH2suiMPqnZZsSHRmK4UNNnAY3p/
-NIvSLIhAYH6OrEKrbChImmJQ/TPugXk6ksB4UmIYwBAUBfT35GnKGCuAGM+gHGA5
-kpZonidZVKBZfRFwmgIiBBTDSbwAKRIx+jtoU3Q2pefk0o3W5HQbp+WqECnu6T7g
-ZnLxNnm4uxr7ZvL28nm2hZ+nrlvRhLvJWDa1GBS8KyZw+J/hBzMJHw0OFfbfmiwv
-bdzv9duB/tAvlvo6PJPTDm66OUA5V4TvD/vF10y1Ff/awidcrr6Y9ebOsIwGMdL/
-YWnSVIP1aUhzQg376PiJ+baZrraziY+cK1upXnX2rQCTW5x0bMdPbBBWdYbZtv/0
-x8Gty5130XcWtkrjwUcrzOiYebMfcjps7Fz4w2Ki1B57fc7TVPbahVPxzujfpW9e
-VidHQmPOjd+cWhqNelw/Gjc93WHZ7GW/Olslb/BzPZZayY5P170xNLRSm9/V2Be+
-eG2w+k/f8KDdpWnFr352p6ID61bdr3sm/nir8BcqKS50T3+hR+tLLYv1T3sDwhrN
-vTXlKeHcJx4DT9LnmnZdK9Q6Z+S59dudF/8d9k2ZX+MV2HflfNH2JDY/sfZ857qF
-ivByS+zOtXTXt6+Yb9x7Unam7oNR/xHsq9R3Q1LaR2Z6Pi2ofrwHdkRt+Uspcbo6
-yKr6vJNpjsXIuD82Jrecurqvadn0ZSkJ3mtGUsj5Szf88uKbHoS9OOF4ezJ+brc0
-YdkXeLj70jbPrNYt7m17398QXO3YtPGIOn6yxpnUE2O51+xveaF3eL1bif/PPn+b
-Hbe/871vJ9sC+ttfnziyo8FnJjYq87KH//ETV9RUx+36OyVfh1R+2LpXBfXgaGXd
-/bKxAd/2WvGCZUE6+x/sDsY6
-=B9Ab
+yMQCAnicbVNrbBVFGL0FLFKxvCVAKLDRClLr7OzsqwFuG1sUEEihwTbAXWZ3Ztpt
+b+9e7m4LtN4IQoEYIbxqIQZRUhDlFSG0vIKAoEAphBhKTUoQi5ZHgUBAK4I620hM
+iPtjNvvtOec735mZEy92DSQlCHbZ47TRtY8SGo4vLAsUp86pqxRMhywQMiqFEtr5
+omFCXc8osYmQIQARAgUQABVJlDExJVFkpqxBbGkUUIJkCSGL6dREQNRkCnSiWMgE
+EtGIZmmIEE1CAAtpArMjhTQWjdkRz5fVERFFXVF0VYRcxmKAKqLOIOQVmVnQgiZG
+zCcWOa7P4OZM7NJ02+E1/mF02vsf/FPfQEQyES0dyAhpyERIJybWiaWYugRMSSVU
+BTrDkilBpEBLlERkQRkpKlWZxsmS2um7rFOOWhCqks+CSKS6jDkGUQloDFKJiroP
+dGksgkspR7s04tkRGi6MOfO8IiGeJpTSWEmYGjHH8fyILc/2gaKqAR0AIOp8TOwW
+GaXUw5yPuV9TlZBoUl1VGGMmRTrmEwI+joawaOpY5XYRkFVGMMEif5DKqEwtS8OE
+u3Hp3IgjZEBVgQAixC3EaLlTQv3url3I03OFjJmCqhHCVIh1IAEsKqqsmZoMKIUM
+QY0Ri2KCdNPSmUoVyBTEAFQtbkbXTCbxFTBhdtzvFiu3rU5xf7ueiYFgJ91ySrmr
+aMzxHMsJ859Fnhd1M/xsvAVRHz2Pmsa/OoZpRwg/L5xRTmOu7UR4Vhz5TGwQpgl0
+ftSOUcP2EbKqaLwM/D60nEuKDGCLKSqwAOam+cIzskSoqCLFqs5PnCVDno+ORUqA
+JDLdYjwQTTNlHouE/8vR3yEPF/pD2YUR7JXFqBA/fmxWt0BCUiDxuS7+RQok9ej9
+9Hptq+71OHnKTS+lcVDu1NSjH2/JXtltwvSq6127d0xr6sga0h7680HWbe3NrKGZ
+97b/CJUX5rfmPawNnSvodrGoqObglW/iY93Vk0F+W/94RZ/PVgyofSzj+vv3289E
+95/bdevM9ObGhuqZ95duuls5dPDFph8+7V2zZkPgnZy8uTU71TnNa+J9yMpr47IW
+9ds18eFIMSYPSFy+tvj0Jnbpte3T6uurk48Kzs0VFeytvUbe16P2rR29e/cB7VH6
+h2VzJvwcOr6vafPgN7r+feNS+z1n0axIsnGtftjkJy0V66bsvpM9PHQhWLGtyu1I
+Lwn06jfjq8a1MzPfTWp8r2R0z1V3Q4NrDp8izSm1ucFxbX988nrd+qoRp5XuBe6k
+joG7uhS03drburFPrXZu/NtbE1K3Gy+v6rW6+PKwmuCSeH5+zqGd8tnJOV2WpF4y
+fl16IPn84W30u6atG3P3H3t4cvGFlPCg8PkryzatrBzQYOz5oPX2pOeX97XUgxfC
+RubZsaktc1c82btk+CvrZkQPHh7RMiRGxvfbcf1K5YLNV42s3sG/gtmv7kjOba8+
+Xz67JWXI54ekDd3PFNedmvRtKPNIxbLFeaGj7Ebxrdbve9zZMupk3ezguvxK8Nue
+3KlJJxOyj5wK1mWbA4c3n+hxeatdQBX1py/tvnca+v9CxqxnBROvtQx8CbQ5VxPH
+4J4L3x855e6DxC+qfv+o4h+fMwRx
+=2+It
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
